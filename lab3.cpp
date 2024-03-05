@@ -21,7 +21,7 @@ bool isvalid(string s) {
 }
 int main() {
 
-    ifstream file("built in_identifier.txt");
+    ifstream file("lab3datatype.txt");
    string input;
     cout << "Enter the identifier which you want to search for: ";
     cin >> input;
